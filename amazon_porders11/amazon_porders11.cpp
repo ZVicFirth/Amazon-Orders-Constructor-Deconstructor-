@@ -1,9 +1,4 @@
-/*Name:  Zachary Firth        Z#  : Z23543282
-Course : Foundations of Computer Science(COP3014)
-Professor : Dr.Lofton Bullard
-Due Date : 4/25/22   Due Time: 11:59PM
-Total Points: 20
-Assignment #12: amazon_porders11.cpp
+/*Name:  Zachary Firth 
 Description : Separate the declarations, the implementations, and the driver of the program into their own files
 and print out the amazon order records as an array.
 */
